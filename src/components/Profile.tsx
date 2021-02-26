@@ -1,8 +1,8 @@
 import React from 'react'
 
-import styles from '../styles/components/Profile.module.css';
+import styles from '../styles/components/Profile.module.css'
 
-function Profile() {
+function Profile () {
   return (
     <div className={styles.profileContainer}>
       <img src="https://github.com/mpradofilho.png" alt="Marcos Prado Filho"/>
